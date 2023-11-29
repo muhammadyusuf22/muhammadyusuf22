@@ -7,7 +7,7 @@ Hi There 👋 I am a Software Engineer
 * 💻  I’m currently Working From Anywhere
 * 🖥️  See my portfolio at [My Resume Web Page](https://muhammadyusuf.me)
 * ✉️  You can contact me at [inbox.myusuf@gmail.com](mailto:inbox.myusuf@gmail.com)
-* 🧠  I'm learning full stack development, Go, Java & Typescript
+* 🧠  I'm learning full stack development, Go, Java, Typescript, NextJS, NestJS, Springboot, FLutter, etc.
 
 <a href="https://www.github.com/muhammadyusuf22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/muhammadyusuf22?logo=github&style=for-the-badge&color=e5e5e5&labelColor=171717"/></a>
 
